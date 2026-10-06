@@ -322,12 +322,14 @@ The dashboard helps identify:
 - Data Storytelling
   
 👩‍💻 Project Information
+
 Project Name: ATM Cash Analytics 360
 Project Type: Portfolio Project – Business Intelligence / Data Analytics
 Domain: Banking & ATM Analytics
 Primary Tool: Microsoft Power BI
 Data Source: Microsoft Excel
 Focus: ATM Transaction Analysis • Cash Availability • ATM Performance • Operational Intelligence
+
 ⭐ Final Summary
 ATM Cash Analytics 360 converts ATM transaction data into an interactive business intelligence solution.
 The project combines:
