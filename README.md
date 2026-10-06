@@ -46,29 +46,25 @@ The project transforms ATM transaction data into meaningful business insights us
 - **Business Intelligence**
 - **GitHub**
 
----
+# 📊 Dashboard Showcase
 
-# 🖥️ Dashboard Structure
+### 🏠 Home Page
+![Home Page](home%20page.png)
 
-The dashboard contains six pages:
+### 📊 Executive Overview
+![Executive Overview](overview.png)
 
-### 1. 🏠 Home
-Project introduction and navigation to all dashboard sections.
+### ⚙️ ATM Operations
+![ATM Operations](operation.png)
 
-### 2. 📊 Executive Overview
-Provides an overall summary of ATM transactions, cash withdrawals, transaction outcomes, and transaction patterns.
+### 📈 ATM Performance
+![ATM Performance](performance.png)
 
-### 3. ⚙️ ATM Operations
-Analyzes transaction failures, failure reasons, low-cash transactions, and operational issues.
+### 💰 Cash Management
+![Cash Management](management.png)
 
-### 4. 📈 ATM Performance
-Analyzes ATM activity, peak hours, daily transaction patterns, and ATM usage.
-
-### 5. 💰 Cash Management
-Analyzes cash withdrawals, cash deposits, cash replenishment, cash levels, and low-cash ATMs.
-
-### 6. 📍 Location Intelligence
-Provides city-wise analysis of transactions, cash withdrawals, failure rates, and low-cash activity.
+### 📍 Location Intelligence
+![Location Intelligence](location.png)
 
 ---
 
