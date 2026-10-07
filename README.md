@@ -55,11 +55,11 @@ The project transforms ATM transaction data into meaningful business insights us
 ![Executive Overview](overview.png)
 
 ### ⚙️ ATM Operations
-![ATM Operations](operation.png)
 
-### 📈 ATM Performance
 ![ATM Performance](performance.png)
 
+### 📈 ATM Performance
+![ATM Operations](operation.png)
 ### 💰 Cash Management
 ![Cash Management](management.png)
 
